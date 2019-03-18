@@ -58,14 +58,14 @@ void about()
     printf( "|           Heterogeneous Particle Swarm Optimizer (CHPSO)           |\n");
     printf( "======================================================================\n");
     printf( "|           Author:        N. J. Cheung                              |\n");
-    printf( "|           Email:         nyaam.ch@gmail.com                        |\n");
+    printf( "|           Email:         yaan.jang@gmail.com                       |\n");
     printf( "|           Release:       Version 1.0                               |\n");
     printf( "|           Release Date:  Sep. 15, 2013.                            |\n");
     printf( "|           Last Modified: Aug. 15, 2014.                            |\n");
     printf( "|           http://godzilla.uchicago.edu/pages/ngaam/index.html      |\n");
     printf( "----------------------------------------------------------------------\n");
     printf( "   CHPSO Incentive Product - Sibe Executable Build                    \n");
-    printf( "   Copyright (C) 2013-   by NJC (nyaam.ch@gmail.com)                  \n");
+    printf( "   Copyright (C) 2013-   by NJC (yaan.jang@gmail.com)                 \n");
     printf( "   James Franck Institute, The University of Chicago                  \n");
     printf( "   929 East 57 Street, Chicago, IL 60637.                             \n");
     printf( "\n");
